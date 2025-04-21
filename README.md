@@ -1,3 +1,5 @@
+file:///C:/Users/User/Downloads/UsedCarsPricePredictions.html
+
 What problem is being solved:​
 
 We have a regression problem at hand where we will try to predict the price of used cars based on several factors such as - Year of manufacturing, Number of seats, Mileage of car, etc.​
